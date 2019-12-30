@@ -1,5 +1,7 @@
 import React from 'react';
-import styles from './index.css';
+<% if (isStyle === 'css') {%> import styles from './index.css';<%}%>
+<% if (isStyle === 'scss') {%> import styles from './index.scss';<%}%>
+<% if (isStyle === 'less') {%> import styles from './index.less';<%}%>
 
 const BasicLayout: React.FC = props => {
   return (
