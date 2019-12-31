@@ -1,6 +1,6 @@
 {
   "name": "create-wy-umi",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "description": "Creates a UmiJS application using the command line.",
   "homepage": "https://github.com/wangyuan0108/create-umi",
   "bugs": {
