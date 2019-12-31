@@ -2,13 +2,13 @@
   "name": "create-my-umi",
   "version": "0.19.0",
   "description": "Creates a UmiJS application using the command line.",
-  "homepage": "https://github.com/umijs/create-umi",
+  "homepage": "https://github.com/wangyuan0108/create-umi",
   "bugs": {
-    "url": "https://github.com/umijs/create-umi/issues"
+    "url": "https://github.com/wangyuan0108/create-umi/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/umijs/create-umi"
+    "url": "https://github.com/wangyuan0108/create-umi"
   },
   "license": "MIT",
   "files": [
@@ -50,6 +50,6 @@
     "umi-test": "^1.8.2"
   },
   "authors": [
-    "chencheng <sorrycc@gmail.com> (https://github.com/sorrycc)"
+    "wangyuan0108 <870147852@qq.com> (https://github.com/wangyuan0108/create-umi)"
   ]
 }
