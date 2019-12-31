@@ -11,7 +11,7 @@ Creates a UmiJS application/plugin/block/library using the command line.
 ## Usage
 
 ```bash
-$ yarn create umi [appName]
+$ yarn create wy-umi [appName]
 ```
 
 ## Boilerplates
@@ -25,7 +25,7 @@ $ yarn create umi [appName]
 ## Usage Example
 
 ```bash
-$ yarn create umi
+$ yarn create wy-umi
 
 ? Select the boilerplate type (Use arrow keys)
   ant-design-pro  - Create project with a layout-only ant-design-pro boilerplate, use together with umi block.
@@ -79,14 +79,14 @@ $ yarn global bin
 你也可以尝试用 npm，
 
 ```bash
-$ npm create umi
+$ npm create wy-umi
 ```
 
-或者手动安装 create-umi，并执行他，
+或者手动安装 create-wy-umi，并执行他，
 
 ```bash
-$ npm install create-umi -g
-$ create-umi
+$ npm install create-wy-umi -g
+$ create-wy-umi
 ```
 
 ## Questions & Suggestions
