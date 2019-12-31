@@ -1,4 +1,4 @@
-# create-umi
+# create-wy-umi
 
 Creates a UmiJS application/plugin/block/library using the command line.
 
@@ -7,7 +7,8 @@ Creates a UmiJS application/plugin/block/library using the command line.
 [![CircleCI](https://circleci.com/gh/umijs/create-umi/tree/master.svg?style=svg)](https://circleci.com/gh/umijs/create-umi/tree/master)
 [![NPM downloads](http://img.shields.io/npm/dm/create-umi.svg?style=flat)](https://npmjs.org/package/create-umi)
 [![GitHub Actions status](https://github.com/umijs/create-umi/workflows/Node%20CI/badge.svg)](https://github.com/umijs/create-umi)
-
+## 简介
+基于官方的umi脚手架改造的，添加的api等文件夹目录。提供scss预处理器选择。
 ## Usage
 
 ```bash
