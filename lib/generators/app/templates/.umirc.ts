@@ -1,6 +1,7 @@
 import { IConfig } from 'umi-types';
 
 // ref: https://umijs.org/config/
+import path from 'path';
 const config: IConfig =  {
   treeShaking: true,
   routes: [
@@ -35,6 +36,9 @@ const config: IConfig =  {
       },
     }],
   ],
+  alias: {
+    '@': path.resolve(__dirname, '/src/'),
+  },
 }
 
 export default config;
