@@ -1,5 +1,5 @@
 {
-  "name": "create-my-umi",
+  "name": "create-wy-umi",
   "version": "0.19.0",
   "description": "Creates a UmiJS application using the command line.",
   "homepage": "https://github.com/wangyuan0108/create-umi",
@@ -17,7 +17,7 @@
     "lib"
   ],
   "bin": {
-    "create-my-umi": "cli.js"
+    "create-wy-umi": "cli.js"
   },
   "scripts": {
     "prepublishOnly": "np --no-cleanup --yolo --no-publish",
